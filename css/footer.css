@@ -1,0 +1,42 @@
+.footer {
+    width: 100%;
+    background: #505BAD;
+    padding-left: 25px;
+    box-sizing: border-box;
+}
+
+.footer-distributed {
+    display: flex;
+    align-items: center;
+    color: #ffffff;
+}
+
+.footerleft img {
+    width: 14%;
+    margin-bottom: 0px;
+}
+
+.footerleft p {
+    display: flex;
+    float: left;
+}
+
+.footer-company-name {
+    color: #ffffff;
+    font-size: 14px;
+}
+
+
+.footer-center p {
+    display: inline-block;
+    color: #ffffff;
+    vertical-align: middle;
+    margin: 0;
+}
+
+.footer-center p span {
+    display: block;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 2;
+}
